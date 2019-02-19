@@ -9,6 +9,10 @@ In this lesson, we'll explore one of the most powerful ensemble methods around--
 
 You will be able to:
 
+* Describe a random forest
+    * a random forest is a collection of decision trees where
+        * every tree is built from randomly sampling the features of our data
+        * avoids overfitting
 * Compare and Contrast weak learners and strong learners, and explain the role weak learners play in gradient boosting algorithms
 * Understand and explain how the Adaboost algorithm works
 * Explain the concept of a learning rate, and the role it plays in gradient boosting algorithms. 
@@ -93,3 +97,13 @@ The sklearn library contains some excellent implementations of Adaboost, as well
 ## Summary
 
 In this lesson, we learned about **_Weak Learners_**, and how they are used in various **_Gradient Boosting_** algorithms. We also learned about two specific algorithms--**_AdaBoost_** and **_Gradient Boosted Trees_**, and we compared how they are similar and how they are different!
+
+
+```python
+# Adaboost
+```
+
+
+```python
+# Gradient Boosting
+```
